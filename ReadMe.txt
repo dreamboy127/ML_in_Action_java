@@ -15,3 +15,5 @@ git usage:
     git remote add origin git@github.com:dreamboy127/ML_in_Action_java.git
     git commit -m "first commit"
     git push origin master
+    git push origin +master
+    git push origin master -f
